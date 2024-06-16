@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 500px;
+}
+.one{
+    width: 24%;
+    height: 150px;
+    background-color: tomato;
+    color: #FFF;
+}
+.one h2{
+    line-height: 150px;
+    text-align: center ;
+    align-items: center;
+}
